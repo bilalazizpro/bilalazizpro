@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bilalazizpro
-- 👀 I’m interested in Data Scientist
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on company
 - 📫 How to reach me bilalazizpro@gmail.com
